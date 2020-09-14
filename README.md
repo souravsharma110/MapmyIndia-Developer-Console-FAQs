@@ -63,36 +63,36 @@ GeoAnalytics | State, District, SubDistrict, Pincode, Locality, SubLocality, Sub
 **Ans:**  Yes, you can monitor project wise utilization by using the project name filter.
 
 
-**Q8.  If I need multiple sets of keys for different Projects, how can I do so?**
+**Q7.  If I need multiple sets of keys for different Projects, how can I do so?**
 
 **Ans:**  Currently, You can have a single set of keys against a project whereas you can have multiple projects in your account. For doing so you have to place the request to the MapmyIndia API support team at [apisupport@mapmyindia.com](mailto:apisupport@mapmyindia.com) and we are also constantly working on making our Dashboard more user friendly.
 
-**Q9.  Where should I contact your team for any help?**
+**Q8.  Where should I contact your team for any help?**
 
 **Ans:**  You can always feel free to contact MapmyIndia API Support Team at [apisupport@mapmyindia.com](mailto:apisupport@mapmyindia.com), we are always available here to serve you better.
 
-**Q10.  How can I add multiple Projects in my Dashboard?**
+**Q9.  How can I add multiple Projects in my Dashboard?**
 
 **Ans:**  Currently, You have to place the request to the MapmyIndia API support team at [apisupport@mapmyindia.com](mailto:apisupport@mapmyindia.com) and we are also constantly working on making our Dashboard fully user friendly.
 
-**Q11.  Where do I go for APIs & SDKs Documentation?**
+**Q10.  Where do I go for APIs & SDKs Documentation?**
 
 **Ans:**  All the documentation of our APIs & SDKs are available on our official website [www.mapmyindia.com/api](http://www.mapmyindia.com/api) & at our Github Repository available here at [www.github.com/mapmyindia](http://www.github.com/mapmyindia).
 
-**Q12.  What is IP/Domain Whitelisting/Blacklisting?**
+**Q11.  What is IP/Domain Whitelisting/Blacklisting?**
 
 **Ans:**  This feature lets you whitelist or blacklist the particular IP/Domain in your project, so that the credentials of are binded to allowed IPs/Domains.
 
-**Q13.  How to reset Password?**
+**Q12.  How to reset Password?**
 
 **Ans:**  If you forget your password, you can reset it by visiting the following URL: [https://anchor.mapmyindia.com/app/#/forgotPassword](https://anchor.mapmyindia.com/app/#/forgotPassword)
 
-**Q14.  What are the types of billing?**
+**Q13.  What are the types of billing?**
 
 **Ans:**  Following are the types of billing as mentioned below:
 -  Free: This is for free & evaluation users who just signed up fresh on MapmyIndia API Portal.    
 -  Custom: This is for paid users. It depends on the plan that the user/organization has opted for.
 
-**Q15.  What is Project Type?**
+**Q14.  What is Project Type?**
 
 **Ans:**  It shows that the project falls in which category like free, enterprise, projects, etc.
