@@ -62,9 +62,6 @@ GeoAnalytics | State, District, SubDistrict, Pincode, Locality, SubLocality, Sub
 
 **Ans:**  Yes, you can monitor project wise utilization by using the project name filter.
 
-**Q7.  What is the difference between Used Hits and Request Count in a downloaded report?**
-
-**Ans:**  Used Hits are the hits which are based on the transaction strategy of the particular API whereas Request Count are the counts that how many times a particular API has been hit through the server. For example: The transaction strategy of our Directions APIs are basically based on how many coordinates you are passing through the request.
 
 **Q8.  If I need multiple sets of keys for different Projects, how can I do so?**
 
