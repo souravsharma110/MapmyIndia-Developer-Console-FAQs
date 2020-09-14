@@ -99,14 +99,3 @@ GeoAnalytics | State, District, SubDistrict, Pincode, Locality, SubLocality, Sub
 **Q15.  What is Project Type?**
 
 **Ans:**  It shows that the project falls in which category like free, enterprise, projects, etc.
-
-<style>
-  p {
-    font-family: Nunito;
-    font-size: 14px;
-  }
-  h2 {
-    font-family: Nunito;
-    font-size: 20px;
-  }
-</style>
